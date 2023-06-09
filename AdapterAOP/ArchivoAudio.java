@@ -1,4 +1,4 @@
-package AOP;
+package AdapterAOP;
 
 public class ArchivoAudio implements Archivo {
 	@Override

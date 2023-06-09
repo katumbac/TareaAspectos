@@ -1,4 +1,4 @@
-package AOP;
+package AdapterAOP;
 
 public aspect AspectoArchivo {
 	public pointcut adaptadorArchivoAudio(): initialization(public ArchivoAudio.new());

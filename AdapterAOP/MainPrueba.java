@@ -1,4 +1,4 @@
-package AOP;
+package AdapterAOP;
 
 public class MainPrueba {
 	public static void main(String args[]) {
